@@ -1,0 +1,60 @@
+======== 1. BAHASA C++ DAN JAVA
+5
+P006 Hoodie_Kawai 200000 10 Hoodie Fleece Pink Kucing L Adidas 
+P007 Kaos_Lucu 65000 25 Kaos Katun Hijau Anjing XS Nike
+P008 Raincoat_Waterproof 180000 18 Raincoat Polyester Kuning Anjing L Doggy_Clothes
+P009 Kostum_Halloween 120000 8 Kostum Satin Orange Kucing M Pawsome 
+P010 Vest_Formal 135000 12 Vest Suede Coklat Anjing L PetElite
+
+======== 2. BAHASA PYTHON
+5
+P006 
+Hoodie_Kawai 
+200000 
+10 
+Hoodie 
+Fleece 
+Pink 
+Kucing 
+L 
+Adidas 
+P007
+Kaos_Lucu
+65000
+25
+Kaos
+Katun
+Hijau
+Anjing
+XS
+Nike
+P008
+Raincoat_Waterproof
+180000
+18
+Raincoat
+Polyester
+Kuning
+Anjing
+L
+Doggy_Clothes
+P009
+Kostum_Halloween
+120000
+8
+Kostum
+Satin
+Orange
+Kucing
+M
+Pawsome
+P010
+Vest_Formal
+135000
+12
+Vest
+Suede
+Coklat
+Anjing
+L
+PetElite
