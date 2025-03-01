@@ -17,6 +17,7 @@ Program ini dirancang untuk mengelola produk sebuah PetShop, khususnya produk pa
      
 3. **Baju** (Turunan dari Aksesoris)  
    - Atribut tambahan: untuk (jenis hewan), size, merk
+
 Jadi desain ini menggunakan hierarki dari umum ke spesifik, dimana **Baju** merupakan jenis dari **Aksesoris**, dan **Aksesoris** merupakan jenis produk di **PetShop**.
 Hal ini memungkinkan pemanfaatan prinsip inheritance, sehingga atribut dan metode dapat digunakan kembali pada kelas turunan.
 
