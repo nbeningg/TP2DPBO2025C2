@@ -11,8 +11,10 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 Program ini dirancang untuk mengelola produk sebuah PetShop, khususnya produk pakaian hewan. Struktur program menggunakan konsep inheritance (pewarisan) dengan 3 class utama:
 1. **PetShop** (Kelas Dasar)  
    - Atribut: id, nama_produk, harga_produk, stok_produk, foto_produk
+     
 2. **Aksesoris** (Turunan dari PetShop)  
-   - Atribut tambahan: jenis, bahan, warna  
+   - Atribut tambahan: jenis, bahan, warna
+     
 3. **Baju** (Turunan dari Aksesoris)  
    - Atribut tambahan: untuk (jenis hewan), size, merk
 Jadi desain ini menggunakan hierarki dari umum ke spesifik, dimana **Baju** merupakan jenis dari **Aksesoris**, dan **Aksesoris** merupakan jenis produk di **PetShop**.
